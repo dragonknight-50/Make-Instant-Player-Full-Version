@@ -236,4 +236,4 @@ This repository serves as the official landing page for Make Instant Player. The
 **Get the most recent version of Make Instant Player today!**
 
 ---
-**Last updated:** 2026-10-17 13:30:06 UTC
+**Last updated:** 2026-10-17 16:46:22 UTC
